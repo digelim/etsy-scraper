@@ -19,11 +19,6 @@ Then you can get the products.
 
 https://data.bybumi.com/data
 
-## Known Bugs
-
-Products are parsed without consistency. Different products return different data. I am open to pull requests.
-
 ## Collaborators
 
-- Josh Silverman (pending)
-- Leandra Eva (suspended)
+- Leandra Eva
