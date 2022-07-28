@@ -19,6 +19,7 @@ Then you can get the products.
 
 https://data.bybumi.com/data
 
-## Collaborators
+## Thanks to
 
 - Leandra Eva
+- Ania Kubów 
