@@ -1,23 +1,22 @@
 # ETSY SCRAPER
 
-Parses products from Etsy.com to JSON. Built in node.js.
+A Node.js scraper for Etsy products.
 
 ## Usage
 
-Install dependencies first.
+### 1. Install the dependencies first.
 
 `npm install`
+
+### 2. Upload your shops list
+
+`vim ./shops.json`
+
+### 3. Start some of the scripts
+
 `npm start`
 
-Then you can get the products.
-
-`JSON.parse(document.body.innerText).images[5]`
-
 ![alt text](https://i.etsystatic.com/31214011/r/il/7b1734/3262859836/il_794xN.3262859836_6ncy.jpg "Pants")
-
-## Live Demo
-
-https://data.bybumi.com/data
 
 ## Thanks to
 
