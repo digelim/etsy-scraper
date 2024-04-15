@@ -22,3 +22,5 @@ A Node.js scraper for Etsy products.
 
 - Leandra Eva
 - Ania Kubów 
+
+[![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.com/donate/?hosted_button_id=XA5LN4XR39PMQ)
